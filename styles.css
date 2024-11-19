@@ -1,7 +1,12 @@
 .header-container{
      display: flex;
+     flex-direction: column;
 }
 
 .top-header{
+    display: flex;
+}
+
+.mid-header{
     display: flex;
 }
