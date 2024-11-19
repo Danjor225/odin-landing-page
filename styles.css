@@ -11,6 +11,10 @@ body{
      flex-direction: column;
      background-color: #1f2937;
      color: white;
+     padding-top: 10px;
+     padding-bottom: 50px;
+     
+
 }
 
 .top-header{
