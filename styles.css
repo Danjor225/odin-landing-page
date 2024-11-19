@@ -40,3 +40,9 @@ body{
 .mid-header{
     display: flex;
 }
+
+.h1{
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+}
