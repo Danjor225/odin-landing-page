@@ -39,6 +39,21 @@ body{
 
 .mid-header{
     display: flex;
+    gap: 50px;
+    
+}
+
+.header-text{
+    display: flex;
+    flex-direction: column;
+    /* flex-wrap: wrap;
+    flex-grow: 1; */
+
+    width: 500px;
+}
+
+.mid-header img{
+flex-grow: 1;
 }
 
 .h1{
