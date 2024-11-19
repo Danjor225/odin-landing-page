@@ -46,15 +46,14 @@ body{
 .header-text{
     display: flex;
     flex-direction: column;
+    align-items: flex-start;
     /* flex-wrap: wrap;
     flex-grow: 1; */
 
     width: 500px;
 }
 
-.mid-header img{
-flex-grow: 1;
-}
+
 
 .h1{
     font-size: 48px;
