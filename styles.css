@@ -74,3 +74,12 @@ h1{
     
 }
 
+button{
+    background-color: #3882f3;
+    color: white;
+    border: 0;
+    border-radius: 5px;
+    padding: 5px 15px;
+    
+}
+
