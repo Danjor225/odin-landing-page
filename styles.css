@@ -1,8 +1,14 @@
 
+*{
+    /* Reset */
+    margin: 0;
+    padding: 0;
+}
 
 body{
     /* color: white; */
     font-family: 'Roboto', Times, serif;
+
 }
 
 img{
@@ -61,8 +67,10 @@ img{
 
 
 
-.h1{
+h1{
     font-size: 48px;
     color: #f9faf8;
     font-weight: 900;
+    
 }
+
