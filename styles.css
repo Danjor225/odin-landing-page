@@ -6,11 +6,6 @@
     font-family: 'Roboto', Times, serif;
 }
 
-body{
-    /* color: white; */
-    
-
-}
 
 img{
     flex-shrink: 0;
@@ -62,7 +57,7 @@ img{
     align-items: flex-start;
     /* flex-wrap: wrap;
     flex-grow: 1; */
-
+    gap: 20px;
     width: 500px;
 }
 
