@@ -7,6 +7,11 @@ body{
     font-family: 'Roboto', Times, serif;
 }
 
+img{
+    flex-shrink: 0;
+}
+
+
 .link{
     padding: 0;
     margin: 0;
@@ -15,12 +20,13 @@ body{
     color: white;
 }
 
+
 .header-container{
      display: flex;
      flex-direction: column;
      background-color: #1f2937;
      color: white;
-    
+    /* justify-content: center; */
      padding: 10px 100px 50px 100px;
      
 
@@ -40,6 +46,7 @@ body{
 .mid-header{
     display: flex;
     gap: 50px;
+    justify-content: center;
     
 }
 
