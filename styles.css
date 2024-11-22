@@ -49,7 +49,7 @@ img{
 .mid-header{
     display: flex;
     gap: 50px;
-    justify-content: center;
+    justify-content: space-evenly;
     padding: 50px;
     
 }
