@@ -100,6 +100,7 @@ button{
     display: flex;
     flex-direction: column;
     flex-basis: 0;
+    text-align: center;
 }
 
 .textbox-container img{
@@ -109,4 +110,5 @@ button{
     border-radius: 12px;
     
 }
+
 
