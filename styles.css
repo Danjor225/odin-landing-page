@@ -92,6 +92,13 @@ button{
 
 .textbox-container{
     display: flex;
+    /* justify-content: center; */
+}
+
+.box-pair{
+    display: flex;
+    flex-direction: column;
+    flex-basis: 0;
 }
 
 .textbox-container img{
