@@ -90,6 +90,10 @@ button{
     align-items: center;
 }
 
+.textbox-container{
+    display: flex;
+}
+
 .textbox-container img{
     width: 100px;
     height: 100px;
