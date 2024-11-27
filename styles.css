@@ -126,4 +126,10 @@ h2{
 
 }
 
+.third-container{
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+}
+
 
