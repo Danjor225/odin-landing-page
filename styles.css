@@ -96,6 +96,7 @@ button{
     align-items: center;
     gap: 30px;
     padding: 20px;
+    padding-bottom: 70px;
 }
 
 .textbox-container{
@@ -127,9 +128,11 @@ h2{
 }
 
 .third-container{
+    padding: 100px;
     background-color: #E5E7EB;
     display: flex;
     flex-direction: column;
+    align-items: center;
 }
 
 
