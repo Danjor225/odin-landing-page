@@ -139,12 +139,17 @@ h2{
 
 .third-container h3{
     font-weight: 100;
-    font-style: italic;
-    width: 500px;
+    font-style:italic;
+    width: 600px;
+    font-size: 36px;
+    color: #1f2937;
 
 }
 
 .third-container p{
+    font-weight: bold;
+    padding-top: 10px;
     text-align: right;
+    font-size: 20px;
 }
 
