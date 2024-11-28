@@ -166,9 +166,16 @@ h2{
     align-items: center;
 
 }
+.fourth-container h4{
+    font-size: 25px;
+}
+.fourth-container p{
+    font-size: 20px;
+}
 
 .fourth-container button{
     border: white solid 1px;
     border-radius: 5px;
     padding: 5px 30px;
+    font-size: 20px;
 }
