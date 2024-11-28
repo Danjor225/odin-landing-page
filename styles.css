@@ -141,7 +141,7 @@ h2{
 .third-container h3{
     font-weight: 100;
     font-style:italic;
-    width: 600px;
+    max-width: 600px;
     font-size: 36px;
     color: #1f2937;
 
