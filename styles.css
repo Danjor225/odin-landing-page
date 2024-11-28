@@ -69,6 +69,7 @@
     flex-grow: 1; */
     gap: 20px;
     /* width: 500px; */
+    max-width: 500px;
 }
 
 
@@ -96,6 +97,7 @@ button{
     align-items: center;
     gap: 30px;
     padding: 20px;
+    padding-top: 40px;
     padding-bottom: 70px;
 }
 
